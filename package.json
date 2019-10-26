@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "name": "my-ip",
+  "version": "1.0.0",
+  "description": "Returns the user ip",
+  "main": "index.js",
+  "author": "Pedro Henrique <system.pedrohenrique@gmail.com>",
+  "license": "MIT"
+}
